@@ -25,8 +25,10 @@ AI Features Implemented
 
 🔹 AI Content Generation
 Wix AI was used to generate the website layout, sections, and written content, enabling faster and more efficient development.
+
 🔹 AI Chatbot Integration
 A chatbot was added to the website to enhance user engagement and provide interactive communication.
+
 🔹 Automation (Form Handling)
 The contact form is connected with Wix Automations to capture user submissions and demonstrate automated workflows.
 
